@@ -1,0 +1,6 @@
+name: LevelSystem
+version: '${project.version}'
+main: me.oyuncozucu.levelsystem.LevelSystem
+api-version: 1.16
+commands:
+  level:
